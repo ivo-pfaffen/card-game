@@ -1,15 +1,6 @@
-## Ivo Pfaffen
+## Memo Royale
+## Thanks for checking out my game!
 
-
-
-### Markdown
-
-
-
-
-
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
