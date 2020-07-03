@@ -1,5 +1,7 @@
 
 ## Memo Royale
 
-Memo Royale is a really simple card game I made in 2018. 
-Check it out! ##https://ivo-pfaffen.github.io/card-game/
+Memo Royale is a really simple memo card game I made back in 2018. 
+
+Check it out here! 
+## https://ivo-pfaffen.github.io/card-game/
